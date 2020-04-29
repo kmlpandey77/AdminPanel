@@ -21,6 +21,25 @@ Bootstrap 4 Admin panel boilerplate template
 </nav>
 ````
 
+## Preview
+
+### Primary
+![Primary](https://raw.githubusercontent.com/kmlpandey77/AdminPanel/master/preview/primary-preview.png "Primary")
+
+### Success
+![Success](https://raw.githubusercontent.com/kmlpandey77/AdminPanel/master/preview/success-preview.png "Success")
+
+### Danger
+![Danger](https://raw.githubusercontent.com/kmlpandey77/AdminPanel/master/preview/danger-preview.png "Danger")
+
+### Info
+![Info](https://raw.githubusercontent.com/kmlpandey77/AdminPanel/master/preview/Info-preview.png "Info")
+
+### Dark
+![Dark](https://raw.githubusercontent.com/kmlpandey77/AdminPanel/master/preview/dark-preview.png "Dark")
+
+
+
 
 
 ## To-do (Working ...)
