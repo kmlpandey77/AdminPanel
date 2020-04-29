@@ -33,7 +33,7 @@ Bootstrap 4 Admin panel boilerplate template
 ![Danger](https://raw.githubusercontent.com/kmlpandey77/AdminPanel/master/preview/danger-preview.png "Danger")
 
 ### Info
-![Info](https://raw.githubusercontent.com/kmlpandey77/AdminPanel/master/preview/Info-preview.png "Info")
+![Info](https://raw.githubusercontent.com/kmlpandey77/AdminPanel/master/preview/info-preview.png "Info")
 
 ### Dark
 ![Dark](https://raw.githubusercontent.com/kmlpandey77/AdminPanel/master/preview/dark-preview.png "Dark")
