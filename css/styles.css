@@ -1,0 +1,77 @@
+body {
+  background: #f1f1f1;
+  font-family: 'Alef', sans-serif;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+  color: #fff;
+}
+
+.side-bar {
+  position: absolute;
+  background: #fff;
+  border-right: 1px solid #e1e1e1;
+  z-index: 1;
+  width: 250px;
+  top: 56px;
+  left: 0;
+  overflow: auto;
+  margin: 0;
+  padding: 10px;
+  padding-top: 20px;
+  padding-bottom: 100px;
+}
+.side-bar li {
+  margin-bottom: 2px;
+}
+.side-bar li a {
+  color: #333;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  display: block;
+  padding: 10px 15px;
+  text-decoration: none;
+}
+.side-bar li a i {
+  margin-right: 10px;
+  font-size: 18px;
+}
+.side-bar li a span {
+  position: relative;
+  top: -2px;
+}
+.side-bar li:hover a, .side-bar li.active a {
+  color: #fff;
+  background: #007BFF;
+  border-radius: 4px;
+}
+
+.content {
+  margin: 0;
+  margin-top: 56px;
+  padding: 30px;
+}
+@media (min-width: 720px) {
+  .content {
+    margin-left: 250px;
+  }
+}
+
+.bg-dark .side-bar li:hover a, .bg-dark .side-bar li.active a {
+  background: #007BFF;
+}
+
+.bg-info .side-bar li:hover a, .bg-info .side-bar li.active a {
+  background: #17A2B8;
+}
+
+.bg-warning .side-bar li:hover a, .bg-warning .side-bar li.active a {
+  background: #FFC107;
+}
+
+.bg-success .side-bar li:hover a, .bg-success .side-bar li.active a {
+  background: #28A745;
+}
+
+.bg-danger .side-bar li:hover a, .bg-danger .side-bar li.active a {
+  background: #DC3545;
+}
