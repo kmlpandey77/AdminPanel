@@ -38,6 +38,9 @@ Bootstrap 4 Admin panel boilerplate template
 ### Dark
 ![Dark](https://raw.githubusercontent.com/kmlpandey77/AdminPanel/master/preview/dark-preview.png "Dark")
 
+## Demo
+
+[View Demo](https://kmlpandey77.github.io/AdminPanel/)
 
 
 
